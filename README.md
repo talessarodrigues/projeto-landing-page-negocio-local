@@ -17,5 +17,8 @@ Projeto de criação de landing page para um negócio local, com foco em convers
 - Medium
 
 ## 📸 Telas
-![Landing page](imagens/landing.png)
-![Email](imagens/email.png)
+![Email e Landing Page](https://github.com/user-attachments/assets/47511d39-39cc-4200-a475-8bd66658c6a2)
+![KV's Nuvens](https://github.com/user-attachments/assets/b5adb4d0-c837-4674-b5f2-64f939aa32aa)]
+![KV's Geometria](https://github.com/user-attachments/assets/89f41d9d-2d45-4436-964d-324548684819)
+
+
